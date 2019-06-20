@@ -11,6 +11,14 @@ export default {
         return {
 
         }
+    },
+    methods: {
+        renderMap() {
+            
+        }
+    },
+    mounted() {
+
     }
 }
 </script>
