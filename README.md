@@ -1,5 +1,5 @@
 # geo-chat
-
+This project is missing parts of a few key files, as they contain API keys that I'd rather not have public
 > A Vue.js project
 
 ## Build Setup
