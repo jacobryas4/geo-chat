@@ -1,5 +1,7 @@
 # geo-chat
 This project is missing parts of a few key files, as they contain API keys that I'd rather not have public
+
+You can demo the app here: https://geo-chatters.web.app/
 > A Vue.js project
 
 ## Build Setup
