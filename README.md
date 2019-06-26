@@ -4,6 +4,12 @@ This project is missing parts of a few key files, as they contain API keys that 
 You can demo the app here: https://geo-chatters.web.app/
 > A Vue.js project
 
+When you first visit the app, you will be prompted to either login or signup.  Once authorized, your browser will certainly ask for geolocation permission.
+
+The map will then focus on your location and drop a waypoint.  You can explore the map and find other waypoints, which represent other users.  
+
+When one of the way points is clicked, you can see that user's wall, where you can leave a comment.
+
 ## Build Setup
 
 ``` bash
